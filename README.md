@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NEW MEXICO JUDICIARY</title><br>
 </head>
 <body>
     <div style="text-align: center;">
